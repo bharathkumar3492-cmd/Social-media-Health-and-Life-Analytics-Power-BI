@@ -46,6 +46,7 @@ This Power BI project analyzes student social media usage, mental health, stress
 Special thanks to **Infinity Code Nexus (ICN)** and **Anand Sir** for their guidance, support, and mentorship throughout the Power BI Masterclass and project development journey.
 
 ## 🔗 Project Repository Link
+https://github.com/bharathkumar3492-cmd/Social-media-Health-and-Life-Analytics-Power-BI.git
 
 
 
